@@ -31,9 +31,25 @@ mehr als Inspiration wie die einzelnen Teilprobleme angegangen werden können.
 * 1. Version Spieler-gegen-Spieler
 * Auslagern von Teilproblemen in Funktionen
 
+## Level 5.5:
+* AufPEPen des Codes
+* Type Annotations
+* Entwicklung im git Repository
+* Dokumentation mit Docstrings
+
 ## Level 6:
 * Klassen für Karte, Spieler und Spielfeld
 * Auslagern von Teilproblemen in eigene Klassen / Module
 * Klassen für Spieler -> KI
 * 2. Version Spieler gegen Spieler
 * 1. Version Spieler gegen Computer
+
+## Level 7:
+* Eigene Exceptions
+* assertions
+
+## Stretch Goals:
+* Browser Version
+* Netzwerk Multiplayer
+* GUI Version
+* Testing
