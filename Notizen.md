@@ -7,6 +7,12 @@ bearbeiten und als Aufgabe formulieren, zudem soll es zu jeder Aufgabe eine
 kommentierte Beispielslösung geben, an der sich orientiert werden kann. Die
 Beispielslösung soll dabei weniger als Musterlösung zum Abschreiben dienen,
 mehr als Inspiration wie die einzelnen Teilprobleme angegangen werden können.
+Idealerweise wird dabei in einem eigenen Ordner, mit Unterordner für jedes Level
+entwickelt, der später zu einem git Repository wird.
+
+## Level 0:
+* TripleTriad Anleitung
+
 ## Level 1:
 * Erstellen einer Karte aus User-Eingaben
 * Ausgabe einer Karte
