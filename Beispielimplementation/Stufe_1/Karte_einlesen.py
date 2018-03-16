@@ -24,5 +24,5 @@ print("|" + width*" " + "|")  # "leere" Zeile
 print("|" + left + s_lr*" " + right + "|")
 print("|" + width*" " + "|")  # "leere" Zeile
 print("|" + s_d*" " + down + (width//2)*" " + "|")
-print("+" + width*"-" + "+") # FußZeilen
+print("+" + width*"-" + "+")  # FußZeilen
 print()  # Leerzeile
