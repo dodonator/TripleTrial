@@ -39,6 +39,13 @@ elif answer == "2":
 
 else:
     print("Ungültige Antwort")
+    print("Damit kein Fehler auftritt wird die erste Karte ausgegeben")
+    print()
+    answer = "1"
+    up = up1
+    down = down1
+    left = left1
+    right = right1
 
 # Die Ausgabe der Karten geschieht, wie bekannt, jedoch wird in der Mitte die
 # Nummer der Karte angezeigt:
