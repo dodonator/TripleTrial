@@ -1,4 +1,8 @@
 # Aufgaben
+## Stufe 0
+Lies dir bitte die Regeln des Spiels Triple Triad, in der Datei "Regeln.md",
+sorgfältig durch.
+
 ## Stufe 1
 ### Karte einlesen und ausgeben
 Schreibe ein Programm das eine Triple Triad Karte ausgibt, nachdem es die vier
