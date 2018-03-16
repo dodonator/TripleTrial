@@ -22,8 +22,8 @@ entwickelt, der später zu einem git Repository wird.
 * Vergleich zweier Karten
 
 ## Level 3:
-* Erstellen eines (3x3) Feldes (später nxn)
-* Ausgabe eines (3x3) Feldes (später nxn)
+* Erstellen eines (3x3) Feldes
+* Ausgabe eines (3x3) Feldes
 * Legen einer Karte in ein Feld
 
 ## Level 3.5 (random):
