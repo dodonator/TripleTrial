@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 print("Triple Triad")
 print("Karte erstellen")
